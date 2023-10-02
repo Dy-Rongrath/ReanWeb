@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 5px;
+}
+p {
+    justify-content: left;
+}
+nav .material-symbols-outlined {
+    padding-top: 5px;
+}
+
+nav:hover{
+    color: rgb(78, 29, 29);
+}
+
+.btn-menu {
+    width: 728px;
+    height: 40px;
+}
+.phone-img {
+    padding-left: 0;
+    margin-left: 0;
+    display: flex;
+}

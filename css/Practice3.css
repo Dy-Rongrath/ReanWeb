@@ -1,0 +1,29 @@
+.body {
+    padding-top: 15px;
+}
+
+.body .phone {
+    padding-left: 500px;
+    padding-right: 470px;
+    justify-content: space-between;
+    display: flex;
+}
+
+.body .watch {
+    padding-right: 470px;
+    padding-left: 500px;
+    justify-content: space-between;
+    display: flex;
+}
+
+.body img {
+    float: left;
+}
+
+p {
+    padding-left: 20px;
+    text-align: justify;
+}
+.LinkVkdeo {
+    padding-top: 10px;
+}
